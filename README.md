@@ -1,5 +1,5 @@
 # 题1 ：javanumberTest  
-    计算某个文件夹中（例中是jdk）.java和.xml文件的数量  
+    计算某个文件夹中（例中是jdk，包括子文件夹）.java和.xml文件的数量  
 # 题2 ：groovydemo  
     用idea安装Groovy后写的一个类，并部署到tomcat上，输出hello world！  
 # 题3：spring-ioc-sample-master  
